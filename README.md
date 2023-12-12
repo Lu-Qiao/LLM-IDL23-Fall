@@ -11,7 +11,7 @@ This project presents the development of a Large Language Model (LLM), aimed at 
 1. VOCAB folder for Tokenizer Vocabulary: 40000, 60000
 2. Preprocessing folder for preprocessing different datasets: OpenWebText, CNN//Daily Mail + SQuAD
 3. Pretraining folder for Training Baseline Models:
-4. Finetuning Evaluation folder for Finetuning Baseline Model for Summary and QA tasks, and evaluating results:
+4. Finetuning and Evaluation folder for Finetuning Baseline Model for Summary and QA tasks, and evaluating results:
 
 # How to run the model
 
