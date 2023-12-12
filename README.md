@@ -18,10 +18,11 @@ This project presents the development of a Large Language Model (LLM), aimed at 
 2. Tokenize your dataset using the built vocabulary
 3. Run your selected pre-trained model
 4. Proprocess your finetune dataset
-5. Finetune the pre-trained model
+5. Finetune the pre-trained model by loading the best checkpoint of the pre-trained model
 6. Evaluate the results
 
 For the specifics step, go to the corresponding folder and run the corresponding notebook
+Model Checkpoint: https://drive.google.com/drive/folders/1Yb16dQTUNUzNuQXRLuH_PJyDjgfdRG71?usp=sharing
 
 # Candidate Architectures for Baseline Model
 ## Figure 1. Candidate I
