@@ -22,6 +22,7 @@ This project presents the development of a Large Language Model (LLM), aimed at 
 6. Evaluate the results
 
 For the specifics step, go to the corresponding folder and run the corresponding notebook
+
 Model Checkpoint: https://drive.google.com/drive/folders/1Yb16dQTUNUzNuQXRLuH_PJyDjgfdRG71?usp=sharing
 
 # Candidate Architectures for Baseline Model
